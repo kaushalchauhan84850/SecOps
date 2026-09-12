@@ -135,7 +135,7 @@ jobs:
           echo "====================================="
           echo "SonarQube Analysis Complete"
           echo "====================================="
-          echo "Backend Dashboard: http://3.230.6.56:9000/dashboard?id=hireflow-backend"
+          echo "Backend Dashboard: http://32.193.219.41:9000/dashboard?id=hireflow-backend"
 
   # Stage 3 : Dependency Scanning
   trivy-deps:
